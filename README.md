@@ -232,9 +232,6 @@ Once you are done with the room, please make sure you shut it down. You can do t
 ![shutdown](pictures/263/shutdown.jpg)
 
 
-## 158
-
-
 ## 155
 
 ### Step 1 - Select Zoom on the desktop, sign in, and start your zoom meeting.
