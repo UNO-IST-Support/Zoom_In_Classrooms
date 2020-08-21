@@ -1,5 +1,13 @@
 # How to use Zoom and the Cameras in various classrooms
 
+## Need a specific room? Click on the links below to find the room you're looking for!
+
+[Room 263](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#263)
+
+
+
+
+
 
 ## 278
 
@@ -100,8 +108,8 @@ The first screen is for the projectors and the doc cam.
 
 ![panelgui](pictures/155/panelgui.jpg)
 
-To use the projectors, please drag and drop the device you want to project on the projector you would like to use.
-The right side box will display on the right, and the left side box will display on the left. Once you have dragged a source onto the projector, please give it some time to warm up and appear on the screens.
+To use the projectors, please select the device you want to project.
+once selected, please give it some time to warm up and appear on the screens.
 
 During your class, you may need to zoom on the instructor station. You will be able to do this with the rear camera. This camera will also give you 2 other options: screen and wide. Screen will show the board and wide will show a wideshot of the instructor and the board.
 There are arrows on the touch panel if you need to move the camera up, down, left, or right.
