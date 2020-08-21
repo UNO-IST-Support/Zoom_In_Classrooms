@@ -129,21 +129,20 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ## Step 1 - Touch the touch panel to turn it on.
 
-## Step 2 - To make the monitor display please drag and drop the pc option to the the projector on the touch panel and the monitor will display.
+## Step 2 - In order for you to display the PC, you will need to drag and drop the PC option to the projectors.
 
-![search](pictures/269/touchpanel.png)
+![panelgui](pictures/279/panelgui.jpg)
 
-## Step 3 - Please open zoom on the desktop and sign in.
+## Step 3 - To start broadcasting to your remote students, please open zoom on the desktop and sign in.
 
-If no video appears- On the bottom left hand corner of your monitor you will see an option displayed video. Please hit the arrow on the video option on the right. You will see all your video options.
-Please make sure video option, " VDO360 2SEE" is selected.
+If you don't have any video when you start the zoom meeting, you should be able to select a video option in the bottom left hand corner of the screen. You will need to hit the arrow next to the camera icon. This will bring up a list of options to choose from. Please select "VDO360 2SEE".
 
-![search](pictures/269/cameraname.png)
+![cameraname](pictures/278/cameraname.jpg)
 
 
-To use display with the projectors please drag and drop what you want to display to the proper projector you wish to display it on.
+Drag on drop a source of your choosing to the projectors.
 
-![search](pictures/269/TouchpanelDisplay.png)
+![display](pictures/278/selectsource.jpg)
 
 
 
@@ -151,15 +150,17 @@ To use display with the projectors please drag and drop what you want to display
 
 ## Step 1 - please select share screen at the bottom.
 
-![search](pictures/Sharescreenbutton.png)
+![share](pictures/278/sharescreen.jpg)
 
 ## Step 2 - Please select advanced at the top of the screen.
 
-![search](pictures/Advancedbutton.png)
+![advanced](pictures/278/advanced.jpg)
 
-## Step 3 - Please select, " Content from 2nd Camera" and the doc cam will start displaying in zoom!
+## Step 3 - Please select, "Content from 2nd Camera" and the doc cam will start displaying in zoom!
 
-![search](pictures/contentfrom2ndcamera.png)
+![select](pictures/278/selectdoc.jpg)
+
+Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
 ## 263
 
