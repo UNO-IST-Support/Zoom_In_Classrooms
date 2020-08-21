@@ -23,9 +23,9 @@
 
 ### How to use the Touch Panel 
 
-![search](pictures/263/panelgui.png)
-
 The first screen is for the projectors and the doc cam. 
+
+![search](pictures/263/panelgui.png)
 
 To use the projectors, please drag and drop the device you want to project on the projector you would like to use. 
 The right side box will display on the right, and the left side box will display on the left. Once you have dragged a source onto the projector, please give it some time to warm up and appear on the screens.
