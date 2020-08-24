@@ -71,7 +71,7 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ## Step 2 - In order for you to display the PC, you will need to drag and drop the PC option to the projectors.
 
-![panelgui](pictures/278/panelgui.jpg)
+![panelgui](pictures/278/278panelgui.jpg)
 
 ## Step 3 - To start broadcasting to your remote students, please open zoom on the desktop and sign in.
 
