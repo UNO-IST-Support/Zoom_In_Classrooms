@@ -2,38 +2,22 @@
 
 ## Need a specific room? Click on the links below to find the room you're looking for!
 
-[Room 279](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#279)
-
-[Room 278](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#278)
-
-[Room 276](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#276)
-
-[Room 274](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#274)
-
-[Room 270](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#270) 
-
-[Room 269](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#269)
-
-[Room 263](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#263)
-
-[Room 261](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#261) 
-
-[Room 260](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#260) 
-
-[Room 259](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#259) 
-
-[Room 256](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#256) 
-
-[Room 252](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#252)
-
-[Room 158](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#158)
-
-[Room 157](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#157) 
-
-[Room 155](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#155)
-
-[Room 153](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#153) 
-
+[Room 279](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#279)\
+[Room 278](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#278)\
+[Room 276](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#276)\
+[Room 274](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#274)\
+[Room 270](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#270)\
+[Room 269](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#269)\
+[Room 263](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#263)\
+[Room 261](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#261)\
+[Room 260](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#260)\
+[Room 259](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#259)\
+[Room 256](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#256)\
+[Room 252](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#252)\
+[Room 158](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#158)\
+[Room 157](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#157)\
+[Room 155](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#155)\
+[Room 153](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#153)\
 
 
 
@@ -58,8 +42,8 @@ Drag on drop a source of your choosing to the projectors.
 
 ![display](pictures/generalphotos/sourcegeneral.jpg)
 
-
-
+<br/>
+<br/>
 
 ## To use the DocCam-
 
@@ -77,8 +61,9 @@ Drag on drop a source of your choosing to the projectors.
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
-
-
+<br/>
+<br/>
+<br/>
 
 ## 278
 
@@ -100,7 +85,8 @@ Drag on drop a source of your choosing to the projectors.
 ![display](pictures/278/selectsource.jpg)
 
 
-
+<br/>
+<br/>
 
 
 ## To use the DocCam-
@@ -119,8 +105,9 @@ Drag on drop a source of your choosing to the projectors.
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
-
-
+<br/>
+<br/>
+<br/>
 
 ## 276
 
@@ -142,6 +129,9 @@ Drag on drop a source of your choosing to the projectors.
 ![display](pictures/generalphotos/sourcegeneral.jpg)
 
 
+<br/>
+<br/>
+
 
 ## To use the DocCam-
 
@@ -160,6 +150,10 @@ Drag on drop a source of your choosing to the projectors.
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
 
+
+<br/>
+<br/>
+<br/>
 
 
 ## 274
@@ -181,8 +175,8 @@ Drag on drop a source of your choosing to the projectors.
 
 ![display](pictures/generalphotos/sourcegeneral.jpg)
 
-
-
+<br/>
+<br/>
 
 ## To use the DocCam-
 
@@ -200,9 +194,9 @@ Drag on drop a source of your choosing to the projectors.
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
-
-
-
+<br/>
+<br/>
+<br/>
 
 ## 270
 
@@ -223,9 +217,8 @@ Drag on drop a source of your choosing to the projectors.
 
 ![display](pictures/generalphotos/sourcegeneral.jpg)
 
-
-
-
+<br/>
+<br/>
 
 ## To use the DocCam-
 
@@ -243,9 +236,9 @@ Drag on drop a source of your choosing to the projectors.
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
-
-
-
+<br/>
+<br/>
+<br/>
 
 ## 269
 
@@ -266,8 +259,8 @@ Drag on drop a source of your choosing to the projectors.
 
 ![display](pictures/278/selectsource.jpg)
 
-
-
+<br/>
+<br/>
 
 ## To use the DocCam-
 
@@ -285,9 +278,9 @@ Drag on drop a source of your choosing to the projectors.
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
-
-
-
+<br/>
+<br/>
+<br/>
 
 ## 263
 
@@ -323,9 +316,9 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ![shutdown](pictures/263/shutdown.jpg)
 
-
-
-
+<br/>
+<br/>
+<br/>
 
 ## 261
 
@@ -346,8 +339,8 @@ Drag on drop a source of your choosing to the projectors.
 
 ![display](pictures/generalphotos/sourcegeneral.jpg)
 
-
-
+<br/>
+<br/>
 
 ## To use the DocCam-
 
@@ -365,9 +358,9 @@ Drag on drop a source of your choosing to the projectors.
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
-
-
-
+<br/>
+<br/>
+<br/>
 
 ## 260
 
@@ -388,8 +381,8 @@ Drag on drop a source of your choosing to the projectors.
 
 ![display](pictures/generalphotos/sourcegeneral.jpg)
 
-
-
+<br/>
+<br/>
 
 ## To use the DocCam-
 
@@ -407,10 +400,9 @@ Drag on drop a source of your choosing to the projectors.
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
-
-
-
-
+<br/>
+<br/>
+<br/>
 
 ## 259
 
@@ -418,9 +410,9 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ![panelgui](pictures/259/259panel.jpg)
 
-
-
-
+<br/>
+<br/>
+<br/>
 
 ## 256
 
@@ -441,9 +433,8 @@ Drag on drop a source of your choosing to the projectors.
 
 ![display](pictures/generalphotos/sourcegeneral.jpg)
 
-
-
-
+<br/>
+<br/>
 
 ## To use the DocCam-
 
@@ -461,9 +452,9 @@ Drag on drop a source of your choosing to the projectors.
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
-
-
-
+<br/>
+<br/>
+<br/>
 
 ## 252
 
@@ -499,9 +490,9 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ![shutdown](pictures/263/shutdown.jpg)
 
-
-
-
+<br/>
+<br/>
+<br/>
 
 ## 158
 
@@ -519,10 +510,9 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 Once you are done with the room, please make sure to shut it down. You can do this by touching the red power options on the bottom right and selecting shut down. This will allow the equipment to have a break and let us use it longer.
 
-
-
-
-
+<br/>
+<br/>
+<br/>
 
 ## 157
 
@@ -543,9 +533,8 @@ Drag on drop a source of your choosing to the projectors.
 
 ![display](pictures/generalphotos/sourcegeneral.jpg)
 
-
-
-
+<br/>
+<br/>
 
 ## To use the DocCam-
 
@@ -563,10 +552,9 @@ Drag on drop a source of your choosing to the projectors.
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
-
-
-
-
+<br/>
+<br/>
+<br/>
 
 ## 155
 
@@ -602,10 +590,9 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ![shutdown](pictures/263/shutdown.jpg)
 
-
-
-
-
+<br/>
+<br/>
+<br/>
 
 ## 153
 ### Note: There should be an instruction sheet on the desk in this room as well.
@@ -619,9 +606,8 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ## Step 3 - Select the projector and then pick the source you want to go with that projector. For Example: Projector 1 and touching PC.
 
-
-
-
+<br/>
+<br/>
 
 ### Using the Doc cam
 
