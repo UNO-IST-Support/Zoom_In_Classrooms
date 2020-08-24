@@ -17,7 +17,7 @@
 [Room 158](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#158)\
 [Room 157](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#157)\
 [Room 155](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#155)\
-[Room 153](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#153)\
+[Room 153](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#153)
 
 
 
@@ -246,18 +246,18 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ## Step 2 - In order for you to display the PC, you will need to drag and drop the PC option to the projectors.
 
-![panelgui](pictures/279/panelgui.jpg)
+![panelgui](pictures/generalphotos/panelgeneral.jpg)
 
 ## Step 3 - To start broadcasting to your remote students, please open zoom on the desktop and sign in.
 
 If you don't have any video when you start the zoom meeting, you should be able to select a video option in the bottom left hand corner of the screen. You will need to hit the arrow next to the camera icon. This will bring up a list of options to choose from. Please select "VDO360 2SEE".
 
-![cameraname](pictures/278/cameraname.jpg)
+![cameraname](pictures/generalphotos/camerageneral.jpg)
 
 
 Drag on drop a source of your choosing to the projectors.
 
-![display](pictures/278/selectsource.jpg)
+![display](pictures/generalphotos/sourcegeneral.jpg)
 
 <br/>
 <br/>
@@ -266,15 +266,15 @@ Drag on drop a source of your choosing to the projectors.
 
 ## Step 1 - please select share screen at the bottom.
 
-![share](pictures/278/sharescreen.jpg)
+![share](pictures/generalphotos/sharegeneral.jpg)
 
 ## Step 2 - Please select advanced at the top of the screen.
 
-![advanced](pictures/278/advanced.jpg)
+![advanced](pictures/generalphotos/advancedgeneral.jpg)
 
 ## Step 3 - Please select, "Content from 2nd Camera" and the doc cam will start displaying in zoom!
 
-![select](pictures/278/selectdoc.jpg)
+![select](pictures/generalphotos/docgeneral.jpg)
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
@@ -609,7 +609,7 @@ Once you are done with the room, please make sure you shut it down. You can do t
 <br/>
 <br/>
 
-### Using the Doc cam
+## Using the Doc cam
 
 ## Step 1 - Select the projector and touch DOC CAM on the controller. Place your document under the camera. 
 
