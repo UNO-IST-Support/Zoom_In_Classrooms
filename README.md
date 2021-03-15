@@ -597,19 +597,6 @@ Once you are done with the room, please make sure you shut it down. You can do t
 ![hangup](pictures/250/250ZoomEndCall.jpg)
 <br/>
 ![panelgui](pictures/250/250Panel.jpg)
-If you don't have any video when you start the zoom meeting, you should be able to select a video option in the bottom left hand corner of the screen. You will need to hit the arrow next to the camera icon. This will bring up a list of options to choose from. Please select "VDO360 2SEE".
-
-![cameraname](pictures/generalphotos/camerageneral.jpg)
-
-
-Drag on drop a source of your choosing to the projectors.
-
-![display](pictures/generalphotos/sourcegeneral.jpg)
-
-<br/>
-<br/>
-
-Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
 <br/>
 <br/>
