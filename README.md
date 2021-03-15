@@ -2,6 +2,9 @@
 
 ## Need a specific room? Click on the links below to find the room you're looking for!
 
+[Room 391a](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#391a)\
+[Room 361](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#361)\
+[Room 350](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#350)\
 [Room 279](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#279)\
 [Room 278](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#278)\
 [Room 276](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#276)\
@@ -14,14 +17,26 @@
 [Room 259](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#259)\
 [Room 256](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#256)\
 [Room 252](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#252)\
+[Room 250](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#250)\
+[Room 172a](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#172a)\
+[Room 164](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#164)\
+[Room 161](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#161)\
+[Room 160](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#160)\
 [Room 158](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#158)\
 [Room 157](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#157)\
 [Room 155](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#155)\
-[Room 153](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#153)
+[Room 153](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#153)\
+[Room 150](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#150)\
 
 
 
 
+
+## 391a
+
+## 361
+
+## 350
 
 ## 279
 
@@ -494,6 +509,21 @@ Once you are done with the room, please make sure you shut it down. You can do t
 <br/>
 <br/>
 
+## 250
+
+
+## 172a
+
+
+## 164
+
+
+## 161
+
+
+## 160
+
+
 ## 158
 
 ## Step 1 - Touch the touch panel to turn it on.
@@ -619,6 +649,13 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 
 Once you are done with the room, please make sure to shut it down. You can do this by touching the red power options on the bottom right and selecting shut down. This will allow the equipment to have a break and let us use it longer. 
+
+<br/>
+<br/>
+<br/>
+
+## 150
+
 
 
 
