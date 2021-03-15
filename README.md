@@ -570,6 +570,50 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ## 250
 
+## Step 1 - Touch the touch panel to turn it on.
+
+![panelgui](pictures/250/250Panel.jpg)
+
+## Step 2 - In order for you to display the PC, you will need to drag and drop the PC option to the projectors.
+
+![sourceOn](pictures/250/250DisplaysOn.jpg)
+
+## Step 3 - To start broadcasting to meeting, select the "Video Conference" option and select Zoom. 
+
+![videoconference](pictures/250/250VideoConference.jpg)
+
+## Step 4 - This will bring up a "Enter Zoom Meeting ID on the TV and the panel will allow for input.
+
+![tv](pictures/250/250ZoomJoin.jpg)
+<br/>
+![panelinput](pictures/250/250PanelEnter.jpg)
+
+## Step 5 - If you want to display something to your meeting, please select "Content Share". All currently active options will have a green dot on them.
+
+![contentshare](pictures/250/250ContentShare.jpg)
+
+## Step 6 - Once your meeting is over, Hang up the call, go back to the main menu and then shut down the system by touching the button in the upper right!
+
+![hangup](pictures/250/250ZoomEndCall.jpg)
+<br/>
+![panelgui](pictures/250/250Panel.jpg)
+If you don't have any video when you start the zoom meeting, you should be able to select a video option in the bottom left hand corner of the screen. You will need to hit the arrow next to the camera icon. This will bring up a list of options to choose from. Please select "VDO360 2SEE".
+
+![cameraname](pictures/generalphotos/camerageneral.jpg)
+
+
+Drag on drop a source of your choosing to the projectors.
+
+![display](pictures/generalphotos/sourcegeneral.jpg)
+
+<br/>
+<br/>
+
+Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
+
+<br/>
+<br/>
+<br/>
 
 ## 172a
 
