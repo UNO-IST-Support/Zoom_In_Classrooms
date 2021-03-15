@@ -40,10 +40,13 @@
 
 ## Step 2 - Open Zoom and Sign in like you would for any other zoom session
 
-![tvscreen](pictures/391aZoomSignIn.jpg)
+![tvscreen](pictures/391a/391aZoomSignIn.jpg)
 
 ## Step 3 - Verify that you have audio and video in your meeting and you should be good to go!
 
+<br/>
+<br/>
+<br/>
 
 ## 361
 
