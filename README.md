@@ -586,7 +586,7 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ![tv](pictures/250/250ZoomJoin.jpg)
 <br/>
-![panelinput](pictures/250/250PanelEnter.jpg)
+![panelinput](pictures/250/250PanelEnterNumber.jpg)
 
 ## Step 5 - If you want to display something to your meeting, please select "Content Share". All currently active options will have a green dot on them.
 
