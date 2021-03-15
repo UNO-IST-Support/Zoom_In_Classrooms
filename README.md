@@ -26,7 +26,7 @@
 [Room 157](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#157)\
 [Room 155](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#155)\
 [Room 153](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#153)\
-[Room 150](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#150)\
+[Room 150](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#150)
 
 
 
