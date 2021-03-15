@@ -34,9 +34,65 @@
 
 ## 391a
 
+## Step 1 - Verify that the TV and Computer is on. You should see the UNOmaha background of the PC.
+
+![tvscreen](pictures/391a/391aScreen.jpg)
+
+## Step 2 - Open Zoom and Sign in like you would for any other zoom session
+
+![tvscreen](pictures/391aZoomSignIn.jpg)
+
+## Step 3 - Verify that you have audio and video in your meeting and you should be good to go!
+
+
 ## 361
 
+## Step 1 - Touch the touch panel to turn it on.
+
+## Step 2 - In order for you to display the PC, you will need to drag and drop the PC option to the projectors. You can also choose to display Zoom/Doc-Cam/etc.
+
+![panelgui](pictures/361/361.jpg)
+
+## Step 3 - To start broadcasting to your remote students, please select the zoom pc option, open zoom on the desktop, and sign in.
+
+If you don't have any video when you start the zoom meeting, you should be able to select a video option in the bottom left hand corner of the screen. You will need to hit the arrow next to the camera icon. This will bring up a list of options to choose from. Please select "VDO360 2SEE".
+
+![cameraname](pictures/generalphotos/camerageneral.jpg)
+
+## NOTE - If you would like to change the camera view, Select "Camera Ctrl" on the left, and you can touch the settings to your needs.
+
+![cameracontrol](pictures/361/361CameraControls.jpg)
+
+<br/>
+<br/>
+
+## To use the DocCam-
+
+## Step 1 - Drag and drop the Doc Cam source onto whichever monitor you would like to display it on. Make sure the light on the doc cam is blue. If it is red, press the power button once and wait. It will start flashing to indicate it is turning on.
+
+![doccam](pictures/361/361DocCam.jpg)
+
+Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
+
+<br/>
+<br/>
+<br/>
+
 ## 350
+
+## Step 1 - Touch the touch panel and touch the "Projector Power On" button. It should turn green and say "Projector Power Off".
+
+![projectorpoweron](pictures/350/350ProjectorOn.jpg)
+
+## Step 2 - In order for you to display the PC, you will need to select the PC option.
+
+![panelgui](pictures/350/350.jpg)
+
+Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
+
+<br/>
+<br/>
+<br/>
 
 ## 279
 
