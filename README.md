@@ -656,6 +656,30 @@ If you need to adjust the camera, tap on the Camera option, next to the Phone op
 
 ## 161
 
+## Step 1 - Touch the touch panel to turn it on and tap power if it isn't on already.
+
+![panel1](pictures/161/panel.jpg)
+
+## Step 2A - For local presentations, choose which option you want to display on the screens
+
+![displays](pictures/161/display.jpg)
+<br/>
+If you choose to use the Doccam, make sure to power it on.
+![doc]((pictures/161/doccamon.jpg)
+<br/>
+
+## Step 2B - For Zoom Conferences, choose Self-Serve Distance and enter the meeting ID to run your own meeting. If you requested your class to be supported, you will choose the "Supported Distance" option.
+
+# Volume can by controlled at the bottom of the touchscreen.
+
+## Step 3 - Once you are finished with the room, please power down the system.
+
+![poweroff1](pictures/161/poweroff.jpg)
+<br/>
+![poweroff2](pictures/161/powerdown2.jpg)
+<br/>
+<br/>
+<br/>
 
 ## 160
 
