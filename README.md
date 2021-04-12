@@ -642,7 +642,7 @@ If you need to adjust the camera, tap on the Camera option, next to the Phone op
 
 ## Step 2 - Select In-Room Presentation to bring up a menu of display options and select which thing you'd like to display. If you need to control volume or mute, these controls are located at the bottom of the touchscreen.
 
-![displays](pictures/164/display.jpg)
+![displays](pictures/164/displays.jpg)
 
 ## Step 3 - Once you are finished with the room, please power down the system.
 
