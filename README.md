@@ -829,9 +829,9 @@ Once you are done with the room, please make sure to shut it down. You can do th
 ![zoom](pictures/150/zoom.jpg)
 
 <br/>
-### To share your content, select "Content Share" and choose PC or Laptop.
-### Volume is controlld on the right side of the panel.
-### To mute the microphone, tap the privacy button
+To share your content, select "Content Share" and choose PC or Laptop. <br/>
+Volume is controlled on the right side of the panel. <br/>
+To mute the microphone, tap the privacy button <br/>
 
 ## Step 3 - Once you are finished with the room, please power down the system.
 
