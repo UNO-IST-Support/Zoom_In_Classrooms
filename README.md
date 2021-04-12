@@ -603,7 +603,36 @@ Once you are done with the room, please make sure you shut it down. You can do t
 <br/>
 
 ## 172a
+## Step 1 - Touch the touch panel to turn it on.
 
+![panel1](pictures/172a/homescreen.jpg)
+
+## Step 2 - In order for you to display the PC, you will need to drag and drop the PC option to the projectors. If you need to control volume or need to mute, the audio is on the right risde of the panel.
+
+![sourceOn](pictures/172a/display.jpg)
+
+## Step 3A - If you are wanting to do a Zoom Video Conference, you will need to use the PC and double click the zoom icon on the desktop. You can use this to either start a meeting or join one.
+
+![startzoom](pictures/263/startzoom.png)
+<br/>
+If you need to adjust the camera, tap on the Camera option, next to the Phone option. This will bring up some controls for you to adjust the camera position as needed.
+![camera](pictures/172a/cameracontrols.jpg)
+
+## Step 3B - If you want to have just an Audio Conference, Tap "Phone", Dial the number, then connect!
+-Dial 9 first for outside calls
+-Dial 4 followed by the 4 digit extension for University numbers
+-Tap Disconnect when done
+
+![phone](pictures/172a/dial.jpg)
+
+## Step 4 - Once your meeting is over, Select "End Meeting" on the PC or "Disconnect" if using audio, go back to the main menu, and shut down the system by touching the button in the upper right!
+
+![poweroff1](pictures/172a/poweroff.jpg)
+<br/>
+![poweroff2](pictures/172a/poweroff2.jpg)
+<br/>
+<br/>
+<br/>
 
 ## 164
 
