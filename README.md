@@ -636,6 +636,23 @@ If you need to adjust the camera, tap on the Camera option, next to the Phone op
 
 ## 164
 
+## Step 1 - Touch the touch panel to turn it on. This should bring up two options: "In-Room Presentation" and "Distance Learning and Videoconferencing". If you want to use this classroom for remote learning, please send us a request and the Zoom ID at uno-ist-support@unomaha.edu so that we can arrange this to be set up.
+
+![panel1](pictures/164/menu.jpg)
+
+## Step 2 - Select In-Room Presentation to bring up a menu of display options and select which thing you'd like to display. If you need to control volume or mute, these controls are located at the bottom of the touchscreen.
+
+![displays](pictures/164/display.jpg)
+
+## Step 3 - Once you are finished with the room, please power down the system.
+
+![poweroff1](pictures/164/shutdown.jpg)
+<br/>
+![poweroff2](pictures/164/shutdown2.jpg)
+<br/>
+<br/>
+<br/>
+
 
 ## 161
 
