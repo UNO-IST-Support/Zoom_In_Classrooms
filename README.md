@@ -816,10 +816,28 @@ Once you are done with the room, please make sure to shut it down. You can do th
 
 ## 150
 
+## Step 1 - Tap the panel below the TVs to turn it on.
 
+## Step 2A - Drag the display option of your choice for a local presentation
 
+![display](pictures/150/display.jpg)
 
+## Step 2B - For a Zoom Video Conference, tap "Video Conference" on the top and select zoom. This should give you some zoom options with a number for people to connect to.
 
+![zoom](pictures/150/zoom.jpg)
 
+<br/>
+### To share your content, select "Content Share" and choose PC or Laptop.
+### Volume is controlld on the right side of the panel.
+### To mute the microphone, tap the privacy button
+
+## Step 3 - Once you are finished with the room, please power down the system.
+
+![poweroff1](pictures/150/poweroff.jpg)
+<br/>
+![poweroff2](pictures/150/poweroff2.jpg)
+<br/>
+<br/>
+<br/>
 
 # If you have any other questions or concerns after reading through these instructions, please come find us in PKI241 or create a ticket in the [Issues](https://github.com/UNO-IST-Support/Zoom_In_Classrooms/issues) tab. Thank you.
