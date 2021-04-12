@@ -818,6 +818,8 @@ Once you are done with the room, please make sure to shut it down. You can do th
 
 ## Step 1 - Tap the panel below the TVs to turn it on.
 
+![panel](pictures/generalphotos/panelgeneral.jpg)
+
 ## Step 2A - Drag the display option of your choice for a local presentation
 
 ![display](pictures/150/display.jpg)
