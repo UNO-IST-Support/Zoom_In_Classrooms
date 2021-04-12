@@ -665,12 +665,12 @@ If you need to adjust the camera, tap on the Camera option, next to the Phone op
 ![displays](pictures/161/display.jpg)
 <br/>
 If you choose to use the Doccam, make sure to power it on.
-![doc]((pictures/161/doccamon.jpg)
+![doc](pictures/161/doccamon.jpg)
 <br/>
 
 ## Step 2B - For Zoom Conferences, choose Self-Serve Distance and enter the meeting ID to run your own meeting. If you requested your class to be supported, you will choose the "Supported Distance" option.
 
-# Volume can by controlled at the bottom of the touchscreen.
+### Volume can by controlled at the bottom of the touchscreen.
 
 ## Step 3 - Once you are finished with the room, please power down the system.
 
