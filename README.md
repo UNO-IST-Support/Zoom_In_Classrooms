@@ -105,33 +105,26 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ![panelgui](pictures/279/panelgui.jpg)
 
-## Step 3 - To start broadcasting to your remote students, please open zoom on the desktop and sign in.
-
-If you don't have any video when you start the zoom meeting, you should be able to select a video option in the bottom left hand corner of the screen. You will need to hit the arrow next to the camera icon. This will bring up a list of options to choose from. Please select "VDO360 2SEE".
-
-![cameraname](pictures/generalphotos/camerageneral.jpg)
-
+## Step 3 - To start broadcasting to your remote students, please open zoom in a browser, sign in, and host a meeting.
 
 Drag on drop a source of your choosing to the projectors.
 
 ![display](pictures/generalphotos/sourcegeneral.jpg)
 
+## Step 4 - To position the camera, use the touchscreen. If you need to adjust the camera angle, hold your finger on the arrows or zoom buttons.
+
+![cameracontrols](pictures/279/279CameraControls.jpg)
+
+There are 6 different camera presets. <br/>
+Room Wide: This will switch to wideshot of the room, allowing you to show all the members. <br/>
+Room Rear: This will switch to a zoom in on the back wall of the room, allowing you to show members sitting in the far back. <br/>
+Front Marker: This will switch to a side view of the marker board. <br/>
+Front Back: This will switch to a view of the instructor station. <br/>
+Far Room: This will switch to a zoom in on the middle far side of the room. <br/>
+Near Room: This will switch to a zoom on the close corner desk of the room, near the instructor station. <br/>
+
 <br/>
 <br/>
-
-## To use the DocCam-
-
-## Step 1 - please select share screen at the bottom.
-
-![share](pictures/generalphotos/sharegeneral.jpg)
-
-## Step 2 - Please select advanced at the top of the screen.
-
-![advanced](pictures/generalphotos/advancedgeneral.jpg)
-
-## Step 3 - Please select, "Content from 2nd Camera" and the doc cam will start displaying in zoom!
-
-![select](pictures/generalphotos/docgeneral.jpg)
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
@@ -458,7 +451,7 @@ Drag on drop a source of your choosing to the projectors.
 <br/>
 <br/>
 
-## To use the DocCam-
+## To use the DocCam
 
 ## Step 1 - please select share screen at the bottom.
 
@@ -480,9 +473,40 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ## 259
 
-## Step 1 - If the PC option doesn't have a red light under it, please press it and allow around 25 seconds for the display to warm up. This is the only way for you to get content to be displayed using the PC.
 
-![panelgui](pictures/259/259panel.jpg)
+## Step 1 - Press the "Power On Display" button is the top right to turn the projector on, then select "PC" to start showing your PC.
+
+![panelgui](pictures/259/259PowerOn.jpg)
+
+## Step 2 - To start broadcasting to your remote students, please open zoom in a browser, sign in, and host a meeting.
+
+If you need to share your screen, you will need to select the "Share Screen" option on Zoom.
+
+## Step 3 - To position the camera, use the touchscreen. If you need to adjust the camera angle, hold your finger on the arrows or zoom buttons.
+
+
+There are 5 different camera presets. <br/>
+Inst Close: This will switch to a zoom on the instructor station. <br/>
+Inst Far: This will switch to a view of the professor and marker board. <br/>
+Marker Left: This will switch to a zoom of the left marker board. <br/>
+Marker center: This will switch to a zoom of the center marker board. <br/>
+Marker Right: This will switch to a zoom of the right marker board. <br/>
+Near Room: This will switch to a zoom on the close corner desk of the room, near the instructor station. <br/>
+
+<br/>
+<br/>
+
+## To use the DocCam
+
+## For Zoom - Press the power button on the DocCam, press the arrow by "Stop Video", select "EPSON".
+
+![share](pictures/259/259SelectDocCam.jpg)
+
+## For Room Only - Press the power button on the DocCam, press the button on the panel called "Doc Cam"
+
+![share](pictures/259/259PresentDocCam.jpg)
+
+Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
 <br/>
 <br/>
@@ -578,7 +602,7 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ![sourceOn](pictures/250/250DisplaysOn.jpg)
 
-## Step 3 - To start broadcasting to meeting, select the "Video Conference" option and select Zoom. 
+## Step 3 - To start broadcasting to meeting, select the "Video Conference" option and select Zoom.
 
 ![videoconference](pictures/250/250VideoConference.jpg)
 
@@ -603,6 +627,7 @@ Once you are done with the room, please make sure you shut it down. You can do t
 <br/>
 
 ## 172a
+
 ## Step 1 - Touch the touch panel to turn it on.
 
 ![panel1](pictures/172a/homescreen.jpg)
@@ -619,6 +644,7 @@ If you need to adjust the camera, tap on the Camera option, next to the Phone op
 ![camera](pictures/172a/cameracontrols.jpg)
 
 ## Step 3B - If you want to have just an Audio Conference, Tap "Phone", Dial the number, then connect!
+
 -Dial 9 first for outside calls
 -Dial 4 followed by the 4 digit extension for University numbers
 -Tap Disconnect when done
@@ -803,6 +829,7 @@ Once you are done with the room, please make sure you shut it down. You can do t
 <br/>
 
 ## 153
+
 ### Note: There should be an instruction sheet on the desk in this room as well.
 
 ![CPanel](pictures/153/153instructions.jpg)
@@ -819,14 +846,14 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ## Using the Doc cam
 
-## Step 1 - Select the projector and touch DOC CAM on the controller. Place your document under the camera. 
+## Step 1 - Select the projector and touch DOC CAM on the controller. Place your document under the camera.
 
 ## Step 2 - Hold the power button on the Ladibug Doc Cam for 2 seconds.
 
 ## Step 3 - Move the camera head and press AUTO TUNE or FOCUS, which should be by the side of the camera head.
 
 
-Once you are done with the room, please make sure to shut it down. You can do this by touching the red power options on the bottom right and selecting shut down. This will allow the equipment to have a break and let us use it longer. 
+Once you are done with the room, please make sure to shut it down. You can do this by touching the red power options on the bottom right and selecting shut down. This will allow the equipment to have a break and let us use it longer.
 
 <br/>
 <br/>
