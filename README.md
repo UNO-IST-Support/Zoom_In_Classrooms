@@ -500,11 +500,11 @@ Near Room: This will switch to a zoom on the close corner desk of the room, near
 
 ## For Zoom - Press the power button on the DocCam, press the arrow by "Stop Video", select "EPSON".
 
-![share](pictures/259/259SelectDocCam.jpg)
+![share](pictures/259/259PresentDocCam.jpg)
 
 ## For Room Only - Press the power button on the DocCam, press the button on the panel called "Doc Cam"
 
-![share](pictures/259/259PresentDocCam.jpg)
+![share](pictures/259/259SelectDocCam.jpg)
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
