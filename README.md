@@ -508,6 +508,8 @@ Near Room: This will switch to a zoom on the close corner desk of the room, near
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
+![PowerOff](picrures/259/259PowerOff.jpg)
+
 <br/>
 <br/>
 <br/>
