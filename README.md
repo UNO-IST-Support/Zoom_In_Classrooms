@@ -83,15 +83,28 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ## 350
 
-## Step 1 - Touch the touch panel and touch the "Projector Power On" button. It should turn green and say "Projector Power Off".
+## Step 1 - Touch the touch panel and touch the "Turn Displays On" button. It should switch and say "Turn Displays Off".
 
-![projectorpoweron](pictures/350/350ProjectorOn.jpg)
+![projectorpoweron](pictures/350/Panel1.jpg)
 
-## Step 2 - In order for you to display the PC, you will need to select the PC option.
+## Step 2 - In order for you to display the PC, you will need to select the PC option. If you would like to use Airtame or HDMI, select those options.
 
-![panelgui](pictures/350/350.jpg)
+![panelgui](pictures/350/Panel2.jpg)
 
-Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
+Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner labeled "Turn Displays Off". This will allow the equipment to have a break and let us use it longer.
+
+## Step 3 - To start broadcasting to your remote students or conference members, please open zoom in a browser, sign in, and host a meeting.
+
+If you need to share your screen, you will need to select the "Share Screen" option on Zoom.
+
+## Step 4 - To position the camera, use the touchscreen. If you need to adjust the camera angle or zoom, hold your finger on the arrows or zoom buttons.
+
+
+There are 4 different camera presets. <br/>
+Wide: This will switch to a zoom of the whole table. <br/>
+Near: This will switch to a view focused on the table closet to the camera. <br/>
+Far: This will switch to a view focused on the table furthest from the camera. <br/>
+White Board: This will switch to a view of the marker board. <br/>
 
 <br/>
 <br/>
@@ -839,9 +852,29 @@ Once you are done with the room, please make sure you shut it down. You can do t
 ## Step 1 - Tap the Crestron panel to turn it on.
 
 
-## Step 2 - Select the number of projectors You'd like to use. One or two.
+## Step 2 - Select the number of projectors you'd like to use. One or two.
 
-## Step 3 - Select the projector and then pick the source you want to go with that projector. For Example: Projector 1 and touching PC.
+## Step 3 - Select the projector and then pick the source you want to go with that projector. For Example: Projector 1 and touching PC. This is also how you see the PC on the monitors.
+
+If you look at the instructions either on here or in person, you should see an image of the crestron screen to help guide you.
+
+## Step 4 - To start broadcasting to your remote students, please open zoom in a browser, sign in, and host a meeting.
+
+If you need to share your screen, you will need to select the "Share Screen" option on Zoom.
+
+## Step 5 - To position the camera, use the touchscreen. If you need to adjust the camera angle, hold your finger on the arrows or zoom buttons.
+
+![Camera](pictures/153/Panel1.jpg)
+
+
+There are 7 different camera presets. <br/>
+Instructor Close: This will switch to a zoom on the instructor station. <br/>
+Instructor Far: This will switch to a view focused on the instructor station but zoomed out. <br/>
+Whole Room: This will switch to a wide view of the room showing mostly the middle 3 rows of desks.<br/>
+Marker Left: This will switch to a zoom of the left marker board. <br/>
+Marker Center: This will switch to a zoom of the center marker board. <br/>
+Marker Right: This will switch to a zoom of the right marker board. <br/>
+Marker Wide: This will switch to a zoom of the whole marker board. <br/>
 
 <br/>
 <br/>
