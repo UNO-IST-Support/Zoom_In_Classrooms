@@ -5,16 +5,19 @@
 ## How to Log into Zoom
 
 If you choose to log into zoom using the desktop icon, you will need to double click the icon
+<br/>
 ![zoomIcon](pictures/263/startzoom.png)
 
 <br/>
 
 Then you will need to click on the "SSO" option
+<br/>
 ![zoomSSO](pictures/zoom/zoomSSO.PNG)
 
 <br/>
 
 Next you will need to enter in the domain you will log in with. After you enter it, you will sign in like normal. It should open the school login page.
+<br/>
 ![zoomDomain](pictures/zoom/zoomDomain.PNG)
 
 <br/>
