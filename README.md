@@ -1,8 +1,16 @@
 # How to use Zoom and the Cameras in various classrooms
+This repository is to show how to log into Zoom and how to configure a room for broadcasting on Zoom. First there are Zoom instructions, then there is a list of rooms that you can click on to see the instructions, next is a quick link to general camera controls, and lastly at the bottom are the general camera controls.
 <br/>
 <br/>
 
 ## How to Log into Zoom
+<br/>
+These instructions will first show how to log into Zoom. If you choose to log in via the website you can click this link: https://unomaha.zoom.us/
+<br/>
+In the upper right, you will see 3 options to choose from. Generally you will either be signing in or hosting a meeting. Click one of those and sign in with your school credentials.
+
+<br/>
+<br/>
 
 If you choose to log into zoom using the desktop icon, you will need to double click the icon
 <br/>
