@@ -962,11 +962,16 @@ To mute the microphone, tap the privacy button <br/>
 <br/>
 The camera controls for each room are different but all work similarly. Each room should have a panel with arrow buttons that will allow you to change the camera to your liking, or there are presets that you can choose. Below you will find some of the camera panel images to give an idea of how they should look.
 <br/>
-![cameracontrol](pictures/361/361CameraControls.jpg)
+
+![cameracontrol1](pictures/361/361CameraControls.jpg)
+
 <br/>
-![cameracontrols](pictures/279/279CameraControls.jpg)
+
+![cameracontrol2](pictures/279/279CameraControls.jpg)
+
 <br/>
-![Camera](pictures/153/Panel1.jpg)
+
+![cameracontrol3](pictures/153/Panel1.jpg)
 
 <br/>
 <br/>
