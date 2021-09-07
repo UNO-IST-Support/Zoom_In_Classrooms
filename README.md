@@ -54,7 +54,9 @@ Next you will need to enter in the domain you will log in with. After you enter 
 
 
 
+## Need some help learning the camera controls? There's a section at the bottom to help!
 
+[Camera](https://github.com/UNO-IST-Support/Zoom_In_Classrooms#Camera)
 
 ## 391a
 
@@ -945,5 +947,22 @@ To mute the microphone, tap the privacy button <br/>
 <br/>
 <br/>
 <br/>
+
+## Camera
+
+## Each room has camera controls listed at the end of the instructions. These are general camera instructions for the rooms.
+<br/>
+The camera controls for each room are different but all work similarly. Each room should have a panel with arrow buttons that will allow you to change the camera to your liking, or there are presets that you can choose. Below you will find some of the camera panel images to give an idea of how they should look.
+<br/>
+![cameracontrol](pictures/361/361CameraControls.jpg)
+<br/>
+![cameracontrols](pictures/279/279CameraControls.jpg)
+<br/>
+![Camera](pictures/153/Panel1.jpg)
+
+<br/>
+<br/>
+<br/>
+
 
 # If you have any other questions or concerns after reading through these instructions, please come find us in PKI241 or create a ticket in the [Issues](https://github.com/UNO-IST-Support/Zoom_In_Classrooms/issues) tab. Thank you.
