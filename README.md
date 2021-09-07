@@ -1,4 +1,25 @@
 # How to use Zoom and the Cameras in various classrooms
+<br/>
+<br/>
+
+## How to Log into Zoom
+
+If you choose to log into zoom using the desktop icon, you will need to double click the icon
+![zoomIcon](pictures/263/startzoom.png)
+
+<br/>
+
+Then you will need to click on the "SSO" option
+![zoomSSO](pictures/zoom/zoomSSO.PNG)
+
+<br/>
+
+Next you will need to enter in the domain you will log in with. After you enter it, you will sign in like normal. It should open the school login page.
+![zoomDomain](pictures/zoom/zoomDomain.PNG)
+
+<br/>
+<br/>
+<br/>
 
 ## Need a specific room? Click on the links below to find the room you're looking for!
 
