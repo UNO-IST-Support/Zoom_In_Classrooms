@@ -887,12 +887,9 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 <img src="pictures/153/153_OffScreen.jpg" width="550" height="450">
 
+## Step 2 - On main screen, select source you’d like to display on projectors. The projectors can display 2 different sources. For example, on the image below, we selected to display the Document Camera on both monitors.
 
-## Step 2 - Select the number of projectors you'd like to use. One or two.
-
-## Step 3 - Select the projector and then pick the source you want to go with that projector. For Example: Projector 1 and touching PC. This is also how you see the PC on the monitors.
-
-If you look at the instructions either on here or in person, you should see an image of the crestron screen to help guide you.
+<img src="pictures/153/153_DocCamSelect.jpg" width="550" height="450">
 
 ## Step 4 - To start broadcasting to your remote students, please open zoom in a browser, sign in, and host a meeting.
 
@@ -900,31 +897,25 @@ If you need to share your screen, you will need to select the "Share Screen" opt
 
 ## Step 5 - To position the camera, use the touchscreen. If you need to adjust the camera angle, hold your finger on the arrows or zoom buttons.
 
-![Camera](pictures/153/Panel1.jpg)
+<img src="pictures/153/153_MainScreen.jpg" width="550" height="450">
 
-
-There are 7 different camera presets. <br/>
-Instructor Close: This will switch to a zoom on the instructor station. <br/>
-Instructor Far: This will switch to a view focused on the instructor station but zoomed out. <br/>
-Whole Room: This will switch to a wide view of the room showing mostly the middle 3 rows of desks.<br/>
-Marker Left: This will switch to a zoom of the left marker board. <br/>
-Marker Center: This will switch to a zoom of the center marker board. <br/>
-Marker Right: This will switch to a zoom of the right marker board. <br/>
-Marker Wide: This will switch to a zoom of the whole marker board. <br/>
+There are 4 different camera presets available as well. <br/>
 
 <br/>
 <br/>
 
 ## Using the Doc cam
 
-## Step 1 - Select the projector and touch DOC CAM on the controller. Place your document under the camera.
+## Step 1 - Select the Document Camera option under the sources for one or both projectors
 
-## Step 2 - Hold the power button on the Ladibug Doc Cam for 2 seconds.
+## Step 2 - Lift the document camera on the right side of the desk and turn it on. Place the document under the camera and it should be displayed on the projector(s).
 
-## Step 3 - Move the camera head and press AUTO TUNE or FOCUS, which should be by the side of the camera head.
+## Step 3 - To change any zoom or light options for the document camera, you must do so on the camera base.
+
+## Step 4 - Once you are finished with the Document Camera, Please shut it down by holding the power button on it for 2-4 seconds and fold it down.
 
 
-Once you are done with the room, please make sure to shut it down. You can do this by touching the red power options on the bottom right and selecting shut down. This will allow the equipment to have a break and let us use it longer.
+Once you are done with the room, please make sure to shut it down. You can do this by touching the shutdown option on the upper left side of panel and confirming shutdown. This will allow the equipment to have a break and let us use it longer.
 
 <br/>
 <br/>
