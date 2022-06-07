@@ -881,7 +881,7 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ### Note: There should be an instruction sheet on the desk in this room as well.
 
-![CPanel](pictures/153/153instructions.jpg)
+<img src="pictures/153/153instructions.jpg" width="550" height="450">
 
 ## Step 1 - Tap the panel to wake and activate the projectors, bringing both screens down.
 
@@ -891,11 +891,11 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 <img src="pictures/153/153_DocCamSelect.jpg" width="550" height="450">
 
-## Step 4 - To start broadcasting to your remote students, please open zoom in a browser, sign in, and host a meeting.
+## Step 3 - To start broadcasting to your remote students, please open zoom in a browser, sign in, and host a meeting.
 
 If you need to share your screen, you will need to select the "Share Screen" option on Zoom.
 
-## Step 5 - To position the camera, use the touchscreen. If you need to adjust the camera angle, hold your finger on the arrows or zoom buttons.
+## Step 4 - To position the camera, use the touchscreen. If you need to adjust the camera angle, hold your finger on the arrows or zoom buttons.
 
 <img src="pictures/153/153_MainScreen.jpg" width="550" height="450">
 
