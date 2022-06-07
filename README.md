@@ -885,7 +885,7 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ## Step 1 - Tap the panel to wake and activate the projectors, bringing both screens down.
 
-<img src="pictures/153/153instructions.jpg" width="300" height="300">
+<img src="pictures/153/153_OffScreen" width="450" height="500">
 
 
 ## Step 2 - Select the number of projectors you'd like to use. One or two.
