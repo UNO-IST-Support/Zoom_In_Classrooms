@@ -883,7 +883,9 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ![CPanel](pictures/153/153instructions.jpg)
 
-## Step 1 - Tap the Crestron panel to turn it on.
+## Step 1 - Tap the panel to wake and activate the projectors, bringing both screens down.
+
+<img src="pictures/153/153instructions.jpg" width="100" height="100">
 
 
 ## Step 2 - Select the number of projectors you'd like to use. One or two.
