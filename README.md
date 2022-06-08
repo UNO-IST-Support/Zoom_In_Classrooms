@@ -14,20 +14,19 @@ In the upper right, you will see 3 options to choose from. Generally you will ei
 
 If you choose to log into zoom using the desktop icon, you will need to double click the icon
 <br/>
-![zoomIcon](pictures/263/startzoom.png)
+<img src="pictures/263/startzoom.png" width="550" height="450">
 
 <br/>
 
 Then you will need to click on the "SSO" option
 <br/>
-![zoomSSO](pictures/zoom/zoomSSO.PNG)
+<img src="pictures/zoom/zoomSSO.PNG" width="550" height="450">
 
 <br/>
 
 Next you will need to enter in the domain you will log in with. After you enter it, you will sign in like normal. It should open the school login page.
 <br/>
-![zoomDomain](pictures/zoom/zoomDomain.PNG)
-
+<img src="pictures/zoom/zoomDomain.PNG" width="550" height="450">
 <br/>
 <br/>
 <br/>
@@ -70,11 +69,11 @@ Next you will need to enter in the domain you will log in with. After you enter 
 
 ## Step 1 - Verify that the TV and Computer is on. You should see the UNOmaha background of the PC.
 
-![tvscreen](pictures/391a/391aScreen.jpg)
+<img src="pictures/391a/391aScreen.jpg" width="550" height="450">
 
 ## Step 2 - Open Zoom and Sign in like you would for any other zoom session
 
-![tvscreen](pictures/391a/391aZoomSignIn.jpg)
+<img src="pictures/391a/391aZoomSignIn.jpg" width="550" height="450">
 
 ## Step 3 - Verify that you have audio and video in your meeting and you should be good to go!
 
@@ -88,17 +87,17 @@ Next you will need to enter in the domain you will log in with. After you enter 
 
 ## Step 2 - In order for you to display the PC, you will need to drag and drop the PC option to the projectors. You can also choose to display Zoom/Doc-Cam/etc.
 
-![panelgui](pictures/361/361.jpg)
+<img src="pictures/361/361.jpg" width="550" height="450">
 
 ## Step 3 - To start broadcasting to your remote students, please select the zoom pc option, open zoom on the desktop, and sign in.
 
 If you don't have any video when you start the zoom meeting, you should be able to select a video option in the bottom left hand corner of the screen. You will need to hit the arrow next to the camera icon. This will bring up a list of options to choose from. Please select "VDO360 2SEE".
 
-![cameraname](pictures/generalphotos/camerageneral.jpg)
+<img src="pictures/generalphotos/camerageneral.jpg" width="550" height="450">
 
 ## NOTE - If you would like to change the camera view, Select "Camera Ctrl" on the left, and you can touch the settings to your needs.
 
-![cameracontrol](pictures/361/361CameraControls.jpg)
+<img src="pictures/361/361CameraControls.jpg" width="550" height="450">
 
 <br/>
 <br/>
@@ -107,7 +106,7 @@ If you don't have any video when you start the zoom meeting, you should be able 
 
 ## Step 1 - Drag and drop the Doc Cam source onto whichever monitor you would like to display it on. Make sure the light on the doc cam is blue. If it is red, press the power button once and wait. It will start flashing to indicate it is turning on.
 
-![doccam](pictures/361/361DocCam.jpg)
+<img src="pictures/361/361DocCam.jpg" width="550" height="450">
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
@@ -119,11 +118,11 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ## Step 1 - Touch the touch panel and touch the "Turn Displays On" button. It should switch and say "Turn Displays Off".
 
-![projectorpoweron](pictures/350/Panel1.jpg)
+<img src="pictures/350/Panel1.jpg" width="550" height="450">
 
 ## Step 2 - In order for you to display the PC, you will need to select the PC option. If you would like to use Airtame or HDMI, select those options.
 
-![panelgui](pictures/350/Panel2.jpg)
+<img src="pictures/350/Panel2.jpg" width="550" height="450">
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner labeled "Turn Displays Off". This will allow the equipment to have a break and let us use it longer.
 
@@ -150,17 +149,17 @@ White Board: This will switch to a view of the marker board. <br/>
 
 ## Step 2 - In order for you to display the PC, you will need to drag and drop the PC option to the projectors.
 
-![panelgui](pictures/279/panelgui.jpg)
+<img src="pictures/279/panel.jpg" width="550" height="450">
 
 ## Step 3 - To start broadcasting to your remote students, please open zoom in a browser, sign in, and host a meeting.
 
 Drag on drop a source of your choosing to the projectors.
 
-![display](pictures/generalphotos/sourcegeneral.jpg)
+<img src="pictures/generalphotos/sourcegeneral.jpg" width="550" height="450">
 
 ## Step 4 - To position the camera, use the touchscreen. If you need to adjust the camera angle, hold your finger on the arrows or zoom buttons.
 
-![cameracontrols](pictures/279/279CameraControls.jpg)
+<img src="pictures/279/279CameraControls.jpg" width="550" height="450">
 
 There are 6 different camera presets. <br/>
 Room Wide: This will switch to wideshot of the room, allowing you to show all the members. <br/>
@@ -185,19 +184,17 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ## Step 2 - In order for you to display the PC, you will need to drag and drop the PC option to the projectors.
 
-![panelgui](pictures/278/278panelgui.jpg)
+<img src="pictures/278/278panelgui.jpg" width="550" height="450">
 
 ## Step 3 - To start broadcasting to your remote students, please open zoom on the desktop and sign in.
 
 If you don't have any video when you start the zoom meeting, you should be able to select a video option in the bottom left hand corner of the screen. You will need to hit the arrow next to the camera icon. This will bring up a list of options to choose from. Please select "VDO360 2SEE".
 
-![cameraname](pictures/278/cameraname.jpg)
-
+<img src="pictures/278/cameraname.jpg" width="550" height="450">
 
 Drag on drop a source of your choosing to the projectors.
 
-![display](pictures/278/selectsource.jpg)
-
+<img src="pictures/278/selectsource.jpg" width="550" height="450">
 
 <br/>
 <br/>
@@ -207,15 +204,15 @@ Drag on drop a source of your choosing to the projectors.
 
 ## Step 1 - please select share screen at the bottom.
 
-![share](pictures/278/sharescreen.jpg)
+<img src="pictures/278/sharescreen.jpg" width="550" height="450">
 
 ## Step 2 - Please select advanced at the top of the screen.
 
-![advanced](pictures/278/advanced.jpg)
+<img src="pictures/278/advanced.jpg" width="550" height="450">
 
 ## Step 3 - Please select, "Content from 2nd Camera" and the doc cam will start displaying in zoom!
 
-![select](pictures/278/selectdoc.jpg)
+<img src="pictures/278/selectdoc.jpg" width="550" height="450">
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
@@ -229,18 +226,18 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ## Step 2 - In order for you to display the PC, you will need to drag and drop the PC option to the projectors.
 
-![panelgui](pictures/generalphotos/panelgeneral.jpg)
+<img src="pictures/generalphotos/panelgeneral.jpg" width="550" height="450">
 
 ## Step 3 - To start broadcasting to your remote students, please open zoom on the desktop and sign in.
 
 If you don't have any video when you start the zoom meeting, you should be able to select a video option in the bottom left hand corner of the screen. You will need to hit the arrow next to the camera icon. This will bring up a list of options to choose from. Please select "VDO360 2SEE".
 
-![cameraname](pictures/generalphotos/camerageneral.jpg)
+<img src="pictures/generalphotos/camerageneral.jpg" width="550" height="450">
 
 
 Drag on drop a source of your choosing to the projectors.
 
-![display](pictures/generalphotos/sourcegeneral.jpg)
+<img src="pictures/generalphotos/sourcegeneral.jpg" width="550" height="450">
 
 
 <br/>
@@ -251,15 +248,15 @@ Drag on drop a source of your choosing to the projectors.
 
 ## Step 1 - please select share screen at the bottom.
 
-![share](pictures/generalphotos/sharegeneral.jpg)
+<img src="pictures/generalphotos/sharegeneral.jpg" width="550" height="450">
 
 ## Step 2 - Please select advanced at the top of the screen.
 
-![advanced](pictures/generalphotos/advancedgeneral.jpg)
+<img src="pictures/generalphotos/advancedgeneral.jpg" width="550" height="450">
 
 ## Step 3 - Please select, "Content from 2nd Camera" and the doc cam will start displaying in zoom!
 
-![select](pictures/generalphotos/docgeneral.jpg)
+<img src="pictures/generalphotos/docgeneral.jpg" width="550" height="450">
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
@@ -276,18 +273,18 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ## Step 2 - In order for you to display the PC, you will need to drag and drop the PC option to the projectors.
 
-![panelgui](pictures/generalphotos/panelgeneral.jpg)
+<img src="pictures/generalphotos/panelgeneral.jpg" width="550" height="450">
 
 ## Step 3 - To start broadcasting to your remote students, please open zoom on the desktop and sign in.
 
 If you don't have any video when you start the zoom meeting, you should be able to select a video option in the bottom left hand corner of the screen. You will need to hit the arrow next to the camera icon. This will bring up a list of options to choose from. Please select "VDO360 2SEE".
 
-![cameraname](pictures/generalphotos/camerageneral.jpg)
+<img src="pictures/generalphotos/camerageneral.jpg" width="550" height="450">
 
 
 Drag on drop a source of your choosing to the projectors.
 
-![display](pictures/generalphotos/sourcegeneral.jpg)
+<img src="pictures/generalphotos/sourcegeneral.jpg" width="550" height="450">
 
 <br/>
 <br/>
@@ -296,15 +293,15 @@ Drag on drop a source of your choosing to the projectors.
 
 ## Step 1 - please select share screen at the bottom.
 
-![share](pictures/generalphotos/sharegeneral.jpg)
+<img src="pictures/generalphotos/sharegeneral.jpg" width="550" height="450">
 
 ## Step 2 - Please select advanced at the top of the screen.
 
-![advanced](pictures/generalphotos/advancedgeneral.jpg)
+<img src="pictures/generalphotos/advancedgeneral.jpg" width="550" height="450">
 
 ## Step 3 - Please select, "Content from 2nd Camera" and the doc cam will start displaying in zoom!
 
-![select](pictures/generalphotos/docgeneral.jpg)
+<img src="pictures/generalphotos/docgeneral.jpg" width="550" height="450">
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
@@ -318,18 +315,18 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ## Step 2 - In order for you to display the PC, you will need to drag and drop the PC option to the projectors.
 
-![panelgui](pictures/generalphotos/panelgeneral.jpg)
+<img src="pictures/generalphotos/panelgeneral.jpg" width="550" height="450">
 
 ## Step 3 - To start broadcasting to your remote students, please open zoom on the desktop and sign in.
 
 If you don't have any video when you start the zoom meeting, you should be able to select a video option in the bottom left hand corner of the screen. You will need to hit the arrow next to the camera icon. This will bring up a list of options to choose from. Please select "VDO360 2SEE".
 
-![cameraname](pictures/generalphotos/camerageneral.jpg)
+<img src="pictures/generalphotos/camerageneral.jpg" width="550" height="450">
 
 
 Drag on drop a source of your choosing to the projectors.
 
-![display](pictures/generalphotos/sourcegeneral.jpg)
+<img src="pictures/generalphotos/sourcegeneral.jpg" width="550" height="450">
 
 <br/>
 <br/>
@@ -338,15 +335,15 @@ Drag on drop a source of your choosing to the projectors.
 
 ## Step 1 - please select share screen at the bottom.
 
-![share](pictures/generalphotos/sharegeneral.jpg)
+<img src="pictures/generalphotos/sharegeneral.jpg" width="550" height="450">
 
 ## Step 2 - Please select advanced at the top of the screen.
 
-![advanced](pictures/generalphotos/advancedgeneral.jpg)
+<img src="pictures/generalphotos/advancedgeneral.jpg" width="550" height="450">
 
 ## Step 3 - Please select, "Content from 2nd Camera" and the doc cam will start displaying in zoom!
 
-![select](pictures/generalphotos/docgeneral.jpg)
+<img src="pictures/generalphotos/docgeneral.jpg" width="550" height="450">
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
@@ -360,18 +357,18 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ## Step 2 - In order for you to display the PC, you will need to drag and drop the PC option to the projectors.
 
-![panelgui](pictures/generalphotos/panelgeneral.jpg)
+<img src="pictures/generalphotos/panelgeneral.jpg" width="550" height="450">
 
 ## Step 3 - To start broadcasting to your remote students, please open zoom on the desktop and sign in.
 
 If you don't have any video when you start the zoom meeting, you should be able to select a video option in the bottom left hand corner of the screen. You will need to hit the arrow next to the camera icon. This will bring up a list of options to choose from. Please select "VDO360 2SEE".
 
-![cameraname](pictures/generalphotos/camerageneral.jpg)
+<img src="pictures/generalphotos/camerageneral.jpg" width="550" height="450">
 
 
 Drag on drop a source of your choosing to the projectors.
 
-![display](pictures/generalphotos/sourcegeneral.jpg)
+<img src="pictures/generalphotos/sourcegeneral.jpg" width="550" height="450">
 
 <br/>
 <br/>
@@ -380,15 +377,15 @@ Drag on drop a source of your choosing to the projectors.
 
 ## Step 1 - please select share screen at the bottom.
 
-![share](pictures/generalphotos/sharegeneral.jpg)
+<img src="pictures/generalphotos/sharegeneral.jpg" width="550" height="450">
 
 ## Step 2 - Please select advanced at the top of the screen.
 
-![advanced](pictures/generalphotos/advancedgeneral.jpg)
+<img src="pictures/generalphotos/advancedgeneral.jpg" width="550" height="450">
 
 ## Step 3 - Please select, "Content from 2nd Camera" and the doc cam will start displaying in zoom!
 
-![select](pictures/generalphotos/docgeneral.jpg)
+<img src="pictures/generalphotos/docgeneral.jpg" width="550" height="450">
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
@@ -400,17 +397,17 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ### Step 1 - Select Zoom on the desktop, sign in, and start your zoom meeting.
 
-![startzoom](pictures/263/startzoom.png)
+<img src="pictures/263/startzoom.png" width="550" height="450">
 
 ### Step 2 - Touch the touch panel to turn on the panel and be able to use the room.
 
-![panel1](pictures/263/panel1.png)
+<img src="pictures/263/panel1.png" width="550" height="450">
 
 ### How to use the Touch Panel
 
 The first screen is for the projectors and the doc cam.
 
-![panelgui](pictures/263/panelgui.png)
+<img src="pictures/263/panelgui.png" width="550" height="450">
 
 To use the projectors, please drag and drop the device you want to project on the projector you would like to use.
 The right side box will display on the right, and the left side box will display on the left. Once you have dragged a source onto the projector, please give it some time to warm up and appear on the screens.
@@ -418,17 +415,17 @@ The right side box will display on the right, and the left side box will display
 During your class, you may need to zoom on the instructor station. You will be able to do this with the rear camera. This camera will also give you 2 other options: screen and wide. Screen will show the board and wide will show a wideshot of the instructor and the board.
 There are arrows on the touch panel if you need to move the camera up, down, left, or right.
 
-![rear](pictures/263/rear.jpg)
+<img src="pictures/263/rear.png" width="550" height="450">
 
 The front camera is for showing the classroom if you need to show a student standing or have something else to show while not being in front of the board or instructor station.
 
-![front](pictures/263/front.jpg)
+<img src="pictures/263/front.png" width="550" height="450">
 
 If you have having audio issues, please make sure echo canceling speaker is selected. You can do this by selecting the carrot arrow by the microphone on the zoom meeting and selecting that option. It should be near the top of the box.
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the upper-left and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
-![shutdown](pictures/263/shutdown.jpg)
+<img src="pictures/263/shutdown.png" width="550" height="450">
 
 <br/>
 <br/>
@@ -440,18 +437,18 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ## Step 2 - In order for you to display the PC, you will need to drag and drop the PC option to the projectors.
 
-![panelgui](pictures/generalphotos/panelgeneral.jpg)
+<img src="pictures/generalphotos/panelgeneral.jpg" width="550" height="450">
 
 ## Step 3 - To start broadcasting to your remote students, please open zoom on the desktop and sign in.
 
 If you don't have any video when you start the zoom meeting, you should be able to select a video option in the bottom left hand corner of the screen. You will need to hit the arrow next to the camera icon. This will bring up a list of options to choose from. Please select "VDO360 2SEE".
 
-![cameraname](pictures/generalphotos/camerageneral.jpg)
+<img src="pictures/generalphotos/camerageneral.jpg" width="550" height="450">
 
 
 Drag on drop a source of your choosing to the projectors.
 
-![display](pictures/generalphotos/sourcegeneral.jpg)
+<img src="pictures/generalphotos/sourcegeneral.jpg" width="550" height="450">
 
 <br/>
 <br/>
@@ -460,15 +457,15 @@ Drag on drop a source of your choosing to the projectors.
 
 ## Step 1 - please select share screen at the bottom.
 
-![share](pictures/generalphotos/sharegeneral.jpg)
+<img src="pictures/generalphotos/sharegeneral.jpg" width="550" height="450">
 
 ## Step 2 - Please select advanced at the top of the screen.
 
-![advanced](pictures/generalphotos/advancedgeneral.jpg)
+<img src="pictures/generalphotos/advancedgeneral.jpg" width="550" height="450">
 
 ## Step 3 - Please select, "Content from 2nd Camera" and the doc cam will start displaying in zoom!
 
-![select](pictures/generalphotos/docgeneral.jpg)
+<img src="pictures/generalphotos/docgeneral.jpg" width="550" height="450">
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
@@ -482,18 +479,18 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ## Step 2 - In order for you to display the PC, you will need to drag and drop the PC option to the projectors.
 
-![panelgui](pictures/generalphotos/panelgeneral.jpg)
+<img src="pictures/generalphotos/panelgeneral.jpg" width="550" height="450">
 
 ## Step 3 - To start broadcasting to your remote students, please open zoom on the desktop and sign in.
 
 If you don't have any video when you start the zoom meeting, you should be able to select a video option in the bottom left hand corner of the screen. You will need to hit the arrow next to the camera icon. This will bring up a list of options to choose from. Please select "VDO360 2SEE".
 
-![cameraname](pictures/generalphotos/camerageneral.jpg)
+<img src="pictures/generalphotos/camerageneral.jpg" width="550" height="450">
 
 
 Drag on drop a source of your choosing to the projectors.
 
-![display](pictures/generalphotos/sourcegeneral.jpg)
+<img src="pictures/generalphotos/sourcegeneral.jpg" width="550" height="450">
 
 <br/>
 <br/>
@@ -502,15 +499,15 @@ Drag on drop a source of your choosing to the projectors.
 
 ## Step 1 - please select share screen at the bottom.
 
-![share](pictures/generalphotos/sharegeneral.jpg)
+<img src="pictures/generalphotos/sharegeneral.jpg" width="550" height="450">
 
 ## Step 2 - Please select advanced at the top of the screen.
 
-![advanced](pictures/generalphotos/advancedgeneral.jpg)
+<img src="pictures/generalphotos/advancedgeneral.jpg" width="550" height="450">
 
 ## Step 3 - Please select, "Content from 2nd Camera" and the doc cam will start displaying in zoom!
 
-![select](pictures/generalphotos/docgeneral.jpg)
+<img src="pictures/generalphotos/docgeneral.jpg" width="550" height="450">
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
@@ -523,7 +520,7 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ## Step 1 - Press the "Power On Display" button is the top right to turn the projector on, then select "PC" to start showing your PC.
 
-![panelgui](pictures/259/259PowerOn.jpg)
+<img src="pictures/259/259PowerOn.jpg" width="550" height="450">
 
 ## Step 2 - To start broadcasting to your remote students, please open zoom in a browser, sign in, and host a meeting.
 
@@ -547,15 +544,15 @@ Near Room: This will switch to a zoom on the close corner desk of the room, near
 
 ## For Zoom - Press the power button on the DocCam, press the arrow by "Stop Video", select "EPSON".
 
-![share](pictures/259/259PresentDocCam.jpg)
+<img src="pictures/259/259PresentDocCam.jpg" width="550" height="450">
 
 ## For Room Only - Press the power button on the DocCam, press the button on the panel called "Doc Cam"
 
-![share](pictures/259/259SelectDocCam.jpg)
+<img src="pictures/259/259SelectDocCam.jpg" width="550" height="450">
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
-![PowerOff](pictures/259/259PowerOff.jpg)
+<img src="pictures/259/259PowerOff.jpg" width="550" height="450">
 
 <br/>
 <br/>
@@ -567,18 +564,18 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ## Step 2 - In order for you to display the PC, you will need to drag and drop the PC option to the projectors.
 
-![panelgui](pictures/generalphotos/panelgeneral.jpg)
+<img src="pictures/generalphotos/panelgeneral.jpg" width="550" height="450">
 
 ## Step 3 - To start broadcasting to your remote students, please open zoom on the desktop and sign in.
 
 If you don't have any video when you start the zoom meeting, you should be able to select a video option in the bottom left hand corner of the screen. You will need to hit the arrow next to the camera icon. This will bring up a list of options to choose from. Please select "VDO360 2SEE".
 
-![cameraname](pictures/generalphotos/camerageneral.jpg)
+<img src="pictures/generalphotos/camerageneral.jpg" width="550" height="450">
 
 
 Drag on drop a source of your choosing to the projectors.
 
-![display](pictures/generalphotos/sourcegeneral.jpg)
+<img src="pictures/generalphotos/sourcegeneral.jpg" width="550" height="450">
 
 <br/>
 <br/>
@@ -587,15 +584,15 @@ Drag on drop a source of your choosing to the projectors.
 
 ## Step 1 - please select share screen at the bottom.
 
-![share](pictures/generalphotos/sharegeneral.jpg)
+<img src="pictures/generalphotos/sharegeneral.jpg" width="550" height="450">
 
 ## Step 2 - Please select advanced at the top of the screen.
 
-![advanced](pictures/generalphotos/advancedgeneral.jpg)
+<img src="pictures/generalphotos/advancedgeneral.jpg" width="550" height="450">
 
 ## Step 3 - Please select, "Content from 2nd Camera" and the doc cam will start displaying in zoom!
 
-![select](pictures/generalphotos/docgeneral.jpg)
+<img src="pictures/generalphotos/docgeneral.jpg" width="550" height="450">
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
@@ -607,17 +604,17 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ### Step 1 - Select Zoom on the desktop, sign in, and start your zoom meeting.
 
-![startzoom](pictures/263/startzoom.png)
+<img src="pictures/263/startzoom.png" width="550" height="450">
 
 ### Step 2 - Touch the touch panel to turn on the panel and be able to use the room.
 
-![panel1](pictures/252/panel1.jpg)
+<img src="pictures/252/panel1.jpg" width="550" height="450">
 
 ### How to use the Touch Panel
 
 The first screen is for the projectors and the doc cam.
 
-![panelgui](pictures/252/panelgui.jpg)
+<img src="pictures/252/panelgui.jpg" width="550" height="450">
 
 To use the projectors, please drag and drop the device you want to project on the projector you would like to use.
 The right side box will display on the right, and the left side box will display on the left. Once you have dragged a source onto the projector, please give it some time to warm up and appear on the screens.
@@ -625,17 +622,17 @@ The right side box will display on the right, and the left side box will display
 During your class, you may need to zoom on the instructor station. You will be able to do this with the rear camera. This camera will also give you 2 other options: screen and wide. Screen will show the board and wide will show a wideshot of the instructor and the board.
 There are arrows on the touch panel if you need to move the camera up, down, left, or right.
 
-![rear](pictures/252/rear.jpg)
+<img src="pictures/252/rear.jpg" width="550" height="450">
 
 The front camera is for showing the classroom if you need to show a student standing or have something else to show while not being in front of the board or instructor station.
 
-![front](pictures/252/front.jpg)
+<img src="pictures/252/front.jpg" width="550" height="450">
 
 If you have having audio issues, please make sure echo canceling speaker is selected. You can do this by selecting the carrot arrow by the microphone on the zoom meeting and selecting that option. It should be near the top of the box.
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the upper-left and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
-![shutdown](pictures/263/shutdown.jpg)
+<img src="pictures/263/shutdown.png" width="550" height="450">
 
 <br/>
 <br/>
@@ -645,31 +642,31 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ## Step 1 - Touch the touch panel to turn it on.
 
-![panelgui](pictures/250/250Panel.jpg)
+<img src="pictures/250/250Panel.jpg" width="550" height="450">
 
 ## Step 2 - In order for you to display the PC, you will need to drag and drop the PC option to the projectors.
 
-![sourceOn](pictures/250/250DisplaysOn.jpg)
+<img src="pictures/250/250DisplayOn.jpg" width="550" height="450">
 
 ## Step 3 - To start broadcasting to meeting, select the "Video Conference" option and select Zoom.
 
-![videoconference](pictures/250/250VideoConference.jpg)
+<img src="pictures/250/250VideoConference.jpg" width="550" height="450">
 
 ## Step 4 - This will bring up a "Enter Zoom Meeting ID on the TV and the panel will allow for input.
 
-![tv](pictures/250/250ZoomJoin.jpg)
+<img src="pictures/250/250ZoomJoin.jpg" width="550" height="450">
 <br/>
-![panelinput](pictures/250/250PanelEnterNumber.jpg)
+<img src="pictures/250/250PanelEnterNumber.jpg" width="550" height="450">
 
 ## Step 5 - If you want to display something to your meeting, please select "Content Share". All currently active options will have a green dot on them.
 
-![contentshare](pictures/250/250ContentShare.jpg)
+<img src="pictures/250/250ContentShare.jpg" width="550" height="450">
 
 ## Step 6 - Once your meeting is over, Hang up the call, go back to the main menu and then shut down the system by touching the button in the upper right!
 
-![hangup](pictures/250/250ZoomEndCall.jpg)
+<img src="pictures/250/250ZoomEndCall.jpg" width="550" height="450">
 <br/>
-![panelgui](pictures/250/250Panel.jpg)
+<img src="pictures/250/250Panel.jpg" width="550" height="450">
 
 <br/>
 <br/>
@@ -679,18 +676,18 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ## Step 1 - Touch the touch panel to turn it on.
 
-![panel1](pictures/172a/homescreen.jpg)
+<img src="pictures/172a/homescreen.jpg" width="550" height="450">
 
 ## Step 2 - In order for you to display the PC, you will need to drag and drop the PC option to the projectors. If you need to control volume or need to mute, the audio is on the right risde of the panel.
 
-![sourceOn](pictures/172a/display.jpg)
+<img src="pictures/172a/display.jpg" width="550" height="450">
 
 ## Step 3A - If you are wanting to do a Zoom Video Conference, you will need to use the PC and double click the zoom icon on the desktop. You can use this to either start a meeting or join one.
 
-![startzoom](pictures/263/startzoom.png)
+<img src="pictures/263/startzoom.png" width="550" height="450">
 <br/>
 If you need to adjust the camera, tap on the Camera option, next to the Phone option. This will bring up some controls for you to adjust the camera position as needed.
-![camera](pictures/172a/cameracontrols.jpg)
+<img src="pictures/172a/cameracontrols.jpg" width="550" height="450">
 
 ## Step 3B - If you want to have just an Audio Conference, Tap "Phone", Dial the number, then connect!
 
@@ -698,13 +695,13 @@ If you need to adjust the camera, tap on the Camera option, next to the Phone op
 -Dial 4 followed by the 4 digit extension for University numbers
 -Tap Disconnect when done
 
-![phone](pictures/172a/dial.jpg)
+<img src="pictures/172a/dial.jpg" width="550" height="450">
 
 ## Step 4 - Once your meeting is over, Select "End Meeting" on the PC or "Disconnect" if using audio, go back to the main menu, and shut down the system by touching the button in the upper right!
 
-![poweroff1](pictures/172a/poweroff.jpg)
+<img src="pictures/172a/poweroff.jpg" width="550" height="450">
 <br/>
-![poweroff2](pictures/172a/poweroff2.jpg)
+<img src="pictures/172a/poweroff2.jpg" width="550" height="450">
 <br/>
 <br/>
 <br/>
@@ -713,17 +710,17 @@ If you need to adjust the camera, tap on the Camera option, next to the Phone op
 
 ## Step 1 - Touch the touch panel to turn it on. This should bring up two options: "In-Room Presentation" and "Distance Learning and Videoconferencing". If you want to use this classroom for remote learning, please send us a request and the Zoom ID at uno-ist-support@unomaha.edu so that we can arrange this to be set up.
 
-![panel1](pictures/164/menu.jpg)
+<img src="pictures/164/menu.jpg" width="550" height="450">
 
 ## Step 2 - Select In-Room Presentation to bring up a menu of display options and select which thing you'd like to display. If you need to control volume or mute, these controls are located at the bottom of the touchscreen.
 
-![displays](pictures/164/displays.jpg)
+<img src="pictures/164/displays.jpg" width="550" height="450">
 
 ## Step 3 - Once you are finished with the room, please power down the system.
 
-![poweroff1](pictures/164/shutdown.jpg)
+<img src="pictures/164/shutdown.jpg" width="550" height="450">
 <br/>
-![poweroff2](pictures/164/shutdown2.jpg)
+<img src="pictures/164/shutdown2.jpg" width="550" height="450">
 <br/>
 <br/>
 <br/>
@@ -733,14 +730,14 @@ If you need to adjust the camera, tap on the Camera option, next to the Phone op
 
 ## Step 1 - Touch the touch panel to turn it on and tap power if it isn't on already.
 
-![panel1](pictures/161/panel.jpg)
+<img src="pictures/161/panel.jpg" width="550" height="450">
 
 ## Step 2A - For local presentations, choose which option you want to display on the screens
 
-![displays](pictures/161/display.jpg)
+<img src="pictures/161/display.jpg" width="550" height="450">
 <br/>
 If you choose to use the Doccam, make sure to power it on.
-![doc](pictures/161/doccamon.jpg)
+<img src="pictures/161/doccamon.jpg" width="550" height="450">
 <br/>
 
 ## Step 2B - For Zoom Conferences, choose Self-Serve Distance and enter the meeting ID to run your own meeting. If you requested your class to be supported, you will choose the "Supported Distance" option.
@@ -749,9 +746,9 @@ If you choose to use the Doccam, make sure to power it on.
 
 ## Step 3 - Once you are finished with the room, please power down the system.
 
-![poweroff1](pictures/161/poweroff.jpg)
+<img src="pictures/161/poweroff.jpg" width="550" height="450">
 <br/>
-![poweroff2](pictures/161/powerdown2.jpg)
+<img src="pictures/161/powerdown2.jpg" width="550" height="450">
 <br/>
 <br/>
 <br/>
@@ -760,19 +757,19 @@ If you choose to use the Doccam, make sure to power it on.
 
 ## Step 1 - Touch the touch panel to turn it on. This should bring up two options: "In-Room Presentation" and "Distance Learning and Videoconferencing". If you want to use this classroom for remote learning, please send us a request and the Zoom ID at uno-ist-support@unomaha.edu so that we can arrange this to be set up.
 
-![panel1](pictures/160/160Panel2.jpg)
+<img src="pictures/160/160Panel2.jpg" width="550" height="450">
 
 ## Step 2 - Select In-Room Presentation to bring up a menu of display options and select which thing you'd like to display. If you need to control volume or mute, these controls are located at the bottom of the touchscreen.
 
-![displays](pictures/164/displays.jpg)
+<img src="pictures/164/displays.jpg" width="550" height="450">
 
 ## Step 3 - Once you are finished with the room, please power down the system.
 
-![poweroff1](pictures/160/160PowerDown1.jpg)
+<img src="pictures/160/160PowerDown1.jpg" width="550" height="450">
 <br/>
-![poweroff2](pictures/160/160PowerDown2.jpg)
+<img src="pictures/160/160PowerDown2.jpg" width="550" height="450">
 <br/>
-![poweroff3](pictures/160/160PowerDown3.jpg)
+<img src="pictures/160/160PowerDown3.jpg" width="550" height="450">
 <br/>
 <br/>
 <br/>
@@ -781,15 +778,15 @@ If you choose to use the Doccam, make sure to power it on.
 
 ## Step 1 - Touch the touch panel to turn it on.
 
-![panel1](pictures/158/panel1.jpg)
+<img src="pictures/158/panel1.jpg" width="550" height="450">
 
 ## Step 2 - Touch the power buttons on the options you wish to activate. Left/Right projectors willl turn on the projectors and bring down screens. Left/Right Display will turn on the monitors to the left and right. Back monitor will power the monitor facing the study rooms. Confidence monitor will power the monitor facing the presenter. Once you have selected the desired displays, press the "Main Page" button on the middle right.
 
-![panelgui](pictures/158/panelgui.jpg)
+<img src="pictures/158/panelgui.jpg" width="550" height="450">
 
 ## Step 3 - Select the display or projector you what to put content on, and then choose how you would like to display that content, usually selecting "PC or Laptop".
 
-![panelgui](pictures/158/selectsource.jpg)
+<img src="pictures/158/selectsource.jpg" width="550" height="450">
 
 Once you are done with the room, please make sure to shut it down. You can do this by touching the red power options on the bottom right and selecting shut down. This will allow the equipment to have a break and let us use it longer.
 
@@ -803,18 +800,18 @@ Once you are done with the room, please make sure to shut it down. You can do th
 
 ## Step 2 - In order for you to display the PC, you will need to drag and drop the PC option to the projectors.
 
-![panelgui](pictures/generalphotos/panelgeneral.jpg)
+<img src="pictures/generalphotos/panelgeneral.jpg" width="550" height="450">
 
 ## Step 3 - To start broadcasting to your remote students, please open zoom on the desktop and sign in.
 
 If you don't have any video when you start the zoom meeting, you should be able to select a video option in the bottom left hand corner of the screen. You will need to hit the arrow next to the camera icon. This will bring up a list of options to choose from. Please select "VDO360 2SEE".
 
-![cameraname](pictures/generalphotos/camerageneral.jpg)
+<img src="pictures/generalphotos/camerageneral.jpg" width="550" height="450">
 
 
 Drag on drop a source of your choosing to the projectors.
 
-![display](pictures/generalphotos/sourcegeneral.jpg)
+<img src="pictures/generalphotos/sourcegeneral.jpg" width="550" height="450">
 
 <br/>
 <br/>
@@ -823,15 +820,15 @@ Drag on drop a source of your choosing to the projectors.
 
 ## Step 1 - please select share screen at the bottom.
 
-![share](pictures/generalphotos/sharegeneral.jpg)
+<img src="pictures/generalphotos/sharegeneral.jpg" width="550" height="450">
 
 ## Step 2 - Please select advanced at the top of the screen.
 
-![advanced](pictures/generalphotos/advancedgeneral.jpg)
+<img src="pictures/generalphotos/advancedgeneral.jpg" width="550" height="450">
 
 ## Step 3 - Please select, "Content from 2nd Camera" and the doc cam will start displaying in zoom!
 
-![select](pictures/generalphotos/docgeneral.jpg)
+<img src="pictures/generalphotos/docgeneral.jpg" width="550" height="450">
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the corner and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
@@ -843,17 +840,17 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ### Step 1 - Select Zoom on the desktop, sign in, and start your zoom meeting.
 
-![startzoom](pictures/263/startzoom.png)
+<img src="pictures/263/startzoom.png" width="550" height="450">
 
 ### Step 2 - Touch the touch panel to turn on the panel and be able to use the room.
 
-![panel1](pictures/155/panel1.jpg)
+<img src="pictures/155/panel1.jpg" width="550" height="450">
 
 ### How to use the Touch Panel
 
 The first screen is for the projectors and the doc cam.
 
-![panelgui](pictures/155/panelgui.jpg)
+<img src="pictures/155/panelgui.jpg" width="550" height="450">
 
 To use the projectors, please select the device you want to project.
 once selected, please give it some time to warm up and appear on the screens.
@@ -861,17 +858,17 @@ once selected, please give it some time to warm up and appear on the screens.
 During your class, you may need to zoom on the instructor station. You will be able to do this with the rear camera. This camera will also give you 2 other options: screen and wide. Screen will show the board and wide will show a wideshot of the instructor and the board.
 There are arrows on the touch panel if you need to move the camera up, down, left, or right.
 
-![rear](pictures/155/rear.jpg)
+<img src="pictures/155/rear.jpg" width="550" height="450">
 
 The front camera is for showing the classroom if you need to show a student standing or have something else to show while not being in front of the board or instructor station.
 
-![front](pictures/155/front.jpg)
+<img src="pictures/155/front.jpg" width="550" height="450">
 
 If you have having audio issues, please make sure echo canceling speaker is selected. You can do this by selecting the carrot arrow by the microphone on the zoom meeting and selecting that option. It should be near the top of the box.
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the upper-left and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
-![shutdown](pictures/263/shutdown.jpg)
+<img src="pictures/263/shutdown.png" width="550" height="450">
 
 <br/>
 <br/>
@@ -926,15 +923,15 @@ Once you are done with the room, please make sure to shut it down. You can do th
 
 ## Step 1 - Tap the panel below the TVs to turn it on.
 
-![panel](pictures/generalphotos/panelgeneral.jpg)
+<img src="pictures/generalphotos/panelgeneral.jpg" width="550" height="450">
 
 ## Step 2A - Drag the display option of your choice for a local presentation
 
-![display](pictures/150/display.jpg)
+<img src="pictures/150/display.jpg" width="550" height="450">
 
 ## Step 2B - For a Zoom Video Conference, tap "Video Conference" on the top and select zoom. This should give you some zoom options with a number for people to connect to.
 
-![zoom](pictures/150/zoom.jpg)
+<img src="pictures/150/zoom.jpg" width="550" height="450">
 
 <br/>
 To share your content, select "Content Share" and choose PC or Laptop. <br/>
@@ -943,9 +940,9 @@ To mute the microphone, tap the privacy button <br/>
 
 ## Step 3 - Once you are finished with the room, please power down the system.
 
-![poweroff1](pictures/150/poweroff.jpg)
+<img src="pictures/150/poweroff.jpg" width="550" height="450">
 <br/>
-![poweroff2](pictures/150/poweroff2.jpg)
+<img src="pictures/150/poweroff2.jpg" width="550" height="450">
 <br/>
 <br/>
 <br/>
@@ -957,15 +954,15 @@ To mute the microphone, tap the privacy button <br/>
 The camera controls for each room are different but all work similarly. Each room should have a panel with arrow buttons that will allow you to change the camera to your liking, or there are presets that you can choose. Below you will find some of the camera panel images to give an idea of how they should look.
 <br/>
 
-![cameracontrol1](pictures/361/361CameraControls.jpg)
+<img src="pictures/361/361CameraControls.jpg" width="550" height="450">
 
 <br/>
 
-![cameracontrol2](pictures/279/279CameraControls.jpg)
+<img src="pictures/279/279CameraControls.jpg" width="550" height="450">
 
 <br/>
 
-![cameracontrol3](pictures/153/Panel1.jpg)
+<img src="pictures/153/Panel1.jpg" width="550" height="450">
 
 <br/>
 <br/>
