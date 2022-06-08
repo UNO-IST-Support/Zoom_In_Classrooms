@@ -149,7 +149,7 @@ White Board: This will switch to a view of the marker board. <br/>
 
 ## Step 2 - In order for you to display the PC, you will need to drag and drop the PC option to the projectors.
 
-<img src="pictures/279/panel.jpg" width="550" height="450">
+<img src="pictures/279/panelgui.jpg" width="550" height="450">
 
 ## Step 3 - To start broadcasting to your remote students, please open zoom in a browser, sign in, and host a meeting.
 
@@ -415,17 +415,17 @@ The right side box will display on the right, and the left side box will display
 During your class, you may need to zoom on the instructor station. You will be able to do this with the rear camera. This camera will also give you 2 other options: screen and wide. Screen will show the board and wide will show a wideshot of the instructor and the board.
 There are arrows on the touch panel if you need to move the camera up, down, left, or right.
 
-<img src="pictures/263/rear.png" width="550" height="450">
+<img src="pictures/263/rear.jpg" width="550" height="450">
 
 The front camera is for showing the classroom if you need to show a student standing or have something else to show while not being in front of the board or instructor station.
 
-<img src="pictures/263/front.png" width="550" height="450">
+<img src="pictures/263/front.jpg" width="550" height="450">
 
 If you have having audio issues, please make sure echo canceling speaker is selected. You can do this by selecting the carrot arrow by the microphone on the zoom meeting and selecting that option. It should be near the top of the box.
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the upper-left and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
-<img src="pictures/263/shutdown.png" width="550" height="450">
+<img src="pictures/263/shutdown.jpg" width="550" height="450">
 
 <br/>
 <br/>
@@ -632,7 +632,7 @@ If you have having audio issues, please make sure echo canceling speaker is sele
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the upper-left and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
-<img src="pictures/263/shutdown.png" width="550" height="450">
+<img src="pictures/263/shutdown.jpg" width="550" height="450">
 
 <br/>
 <br/>
@@ -646,7 +646,7 @@ Once you are done with the room, please make sure you shut it down. You can do t
 
 ## Step 2 - In order for you to display the PC, you will need to drag and drop the PC option to the projectors.
 
-<img src="pictures/250/250DisplayOn.jpg" width="550" height="450">
+<img src="pictures/250/250DisplaysOn.jpg" width="550" height="450">
 
 ## Step 3 - To start broadcasting to meeting, select the "Video Conference" option and select Zoom.
 
@@ -868,7 +868,7 @@ If you have having audio issues, please make sure echo canceling speaker is sele
 
 Once you are done with the room, please make sure you shut it down. You can do this by clicking the shutdown button in the upper-left and confirming the shutdown. This will allow the equipment to have a break and let us use it longer.
 
-<img src="pictures/263/shutdown.png" width="550" height="450">
+<img src="pictures/263/shutdown.jpg" width="550" height="450">
 
 <br/>
 <br/>
